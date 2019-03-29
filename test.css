@@ -1,0 +1,33 @@
+body{
+ font: 30px monospace;
+ background-image: url("http://i.imgur.com/njjIlEQ.png/");
+}
+
+h1{
+ font: 30px monospace;
+ color: red;
+}
+
+.Input{
+ font: 30px monospace;
+ border: 2px solid #4389f9;
+ width: 300px;
+}
+
+.Submit{
+ font: 30px monospace;
+ border: 2px solid #4389f9;
+ width: 300px;
+}﻿
+#menu {
+font-family:monospace;
+font-size:30;
+color:#4389f9;
+ background-color: #c4daff;
+}
+li {
+  display: inline;
+}
+li a:hover {
+ background-color: #c4daff;
+}

@@ -1,6 +1,7 @@
 body{
  font: 30px monospace;
  background-image: url("http://i.imgur.com/njjIlEQ.png/");
+ scrolling:no;
 }
 
 h1{
@@ -30,4 +31,9 @@ li {
 }
 li a:hover {
  background-color: #c4daff;
+}
+    iframe {position:absolute;
+    z-index:1;
+    top:0px;
+    left:0px;
 }
